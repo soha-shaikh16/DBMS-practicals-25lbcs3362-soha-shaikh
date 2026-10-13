@@ -85,5 +85,5 @@ HAVING COUNT(*) > 5;
 ---
 
 ## Transcription & Implementation Notes
-- **Source Material**: Faithfully transcribed from `DBMS 3 Ayushman Gupta.docx`.
+- **Source Material**: Faithfully transcribed from `DBMS 3 Soha Shaikh.docx`.
 - **Database Encapsulation**: Uses dedicated schema `CompanyDB_Exp03` with safe clean teardown (`DROP TABLE IF EXISTS`) in proper referential order (`Employee` -> `Project` -> `Department`).
