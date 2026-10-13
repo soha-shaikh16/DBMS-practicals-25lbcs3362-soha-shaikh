@@ -71,6 +71,6 @@ mysql -u your_username -p < experiment_04.sql
 ---
 
 ## Transcription & Implementation Notes
-- **Source Material**: Transcribed from `DBMS EXPERIMENT 4 Ayushman Gupta.docx`.
+- **Source Material**: Transcribed from `DBMS EXPERIMENT 4 Soha Shaikh.docx`.
 - **Database Encapsulation**: Uses isolated `CompanyDB_Exp04` schema.
 - **Syntax Standards**: Fully MySQL 8.0+ compliant with explicit aliases and ANSI joins.
