@@ -96,5 +96,5 @@ ORDER BY Level, Emp_ID;
 ---
 
 ## Transcription & Implementation Notes
-- **Source Material**: Reconstructed faithfully from `EXPERIMENT DBMS 5 Ayushman Gupta.docx`.
+- **Source Material**: Reconstructed faithfully from `EXPERIMENT DBMS 5 Soha Shaikh.docx`.
 - **Idempotency**: Views are dropped safely before tables (`DROP VIEW IF EXISTS ...`) and tables are created with `Manager_ID` included to enable zero-error repeatable executions.
