@@ -89,5 +89,5 @@ UPDATE Employee SET Salary = 65000.00 WHERE Emp_ID = 1;
 ---
 
 ## Transcription & Implementation Notes
-- **Source Material**: Reconstructed from `DBMS EXP 6 Ayushman Gupta.docx`.
+- **Source Material**: Reconstructed from `DBMS EXP 6 Soha Shaikh.docx`.
 - **Safe Reset**: Safely drops existing stored procedures and triggers (`DROP PROCEDURE IF EXISTS ...`, `DROP TRIGGER IF EXISTS ...`) before recreating schema components to guarantee repeatable execution.
